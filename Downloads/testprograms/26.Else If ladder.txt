@@ -1,0 +1,10 @@
+if(c>10)
+c=a+5;
+else if(c>5)
+c=a-5;
+else if(c>0)
+c=a*5;
+else if(c==0)
+c=a/5;
+else
+c=a%5;

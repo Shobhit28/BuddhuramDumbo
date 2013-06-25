@@ -1,0 +1,17 @@
+If(c<5)
+{
+	c=c+2;
+	if(c<4)
+	c=c*a;
+	else
+	c=c/a;
+}
+else
+{
+	c=c-3;
+	if(c>4)
+	{
+		c=c+2;
+		c=c*a;
+	}
+}

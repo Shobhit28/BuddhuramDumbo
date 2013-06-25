@@ -1,0 +1,4 @@
+printf("%d",x);
+printf("%f",f);
+printf("%c",a);
+printf("%s",str);

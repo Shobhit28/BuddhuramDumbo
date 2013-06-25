@@ -1,0 +1,2 @@
+int g,h=g+1;
+float f=h*0.3;

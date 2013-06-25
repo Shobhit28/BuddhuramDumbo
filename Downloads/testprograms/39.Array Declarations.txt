@@ -1,0 +1,6 @@
+int a[5];
+int a[i];
+char str[5];
+char str[i];
+float f[5];
+float f[i];

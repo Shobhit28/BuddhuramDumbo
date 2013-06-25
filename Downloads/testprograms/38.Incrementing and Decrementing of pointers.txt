@@ -1,0 +1,8 @@
+str++;
+++str;
+str--;
+--str;
+ptr++;
+ptr--;
+++ptr;
+--ptr;

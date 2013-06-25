@@ -1,0 +1,8 @@
+int ab=5;
+int c=.101,d=7.5;
+float fi=90,gi=8.8;
+char sd='h';
+char h=45;
+float y=5.890;
+int f='hi';
+char ghi='ghi';

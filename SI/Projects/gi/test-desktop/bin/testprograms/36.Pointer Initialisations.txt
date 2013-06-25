@@ -1,0 +1,6 @@
+char* str=&g;
+char* str1=str2;
+int* x=&y
+int* x=z;
+float* f=&m;
+float* f1=f2 

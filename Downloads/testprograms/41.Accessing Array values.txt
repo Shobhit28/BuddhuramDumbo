@@ -1,0 +1,6 @@
+x=a[2];
+y=a[i];
+ch1=str[3];
+ch2=str[i];
+f1=fp[2];
+f2=fp[i];

@@ -1,0 +1,7 @@
+while(i<5)
+i=i+1;
+while(j>=7)
+{
+	c=c-3;
+	j=c*i;
+}

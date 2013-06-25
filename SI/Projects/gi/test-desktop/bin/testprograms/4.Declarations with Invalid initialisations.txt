@@ -1,0 +1,2 @@
+int h="trt";
+char gu="gu";

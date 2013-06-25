@@ -1,0 +1,2 @@
+printf("The value of %d element is %f",i,a[i]);
+printf("The %d character is %c",i,b[i]);

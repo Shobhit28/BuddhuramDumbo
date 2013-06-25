@@ -1,0 +1,4 @@
+scanf("%d",&x);
+scanf("%f",&f);
+scanf("%c",&a);
+scanf("%s",str);

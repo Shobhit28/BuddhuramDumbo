@@ -1,0 +1,12 @@
+int a[]={1,2,3,4};
+int a[5]={1,2,3,4};
+int a[3]={1,2,3,4};
+char b[]={'a','b','c','d'};
+char b[5]={'a','b','c','d'};
+char b[3]={'a','b','c','d'};
+char b[]="abcd";
+char b[5]="abcd";
+char b[3]="abcd";
+float f[]={5.2,8,.9,7};
+float f[5]={5.2,8,.9,7};
+float f[3]={5.2,8,.9,7};
